@@ -2461,7 +2461,7 @@
 				"HarassingSiegeEngine8": "None",
 				"HarassingSiegeEnginesMax": 5,
 				"Unknown124": 4,
-				"AttForceBase": 120,
+				"AttForceBase": 110,
 				"AttForceRandom": 20,
 				"AttForceSupportAllyThreshold": 50,
 				"AttForceRallyPercentage": 80,
@@ -2500,9 +2500,9 @@
 				"AttUnitSiegeDefGroupsCount": 1,
 				"AttUnitMain1": "Maceman",
 				"AttUnitMain2": "Maceman",
-				"AttUnitMain3": "Maceman",
+				"AttUnitMain3": "Pikeman",
 				"AttUnitMain4": "EuropArcher",
-				"AttMaxDefault": 380,
+				"AttMaxDefault": 360,
 				"AttMainGroupsCount": 3,
 				"TargetChoice": "Closest"
 			}
